@@ -1,0 +1,19 @@
+
+footer {
+    background-color:#666666;
+    clear:both;
+    position: relative;
+    bottom:0;        
+    left:0; 
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+    display: block;
+    height: 70px;
+    text-align:center;
+    font-size:10px;
+}
+
+#copyright {
+    padding-top: 40px; 
+    color: #777777;  
+}
